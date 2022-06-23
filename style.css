@@ -1,20 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@700&display=swap");
-/*
-SPACING SYSTEM (px)
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
-
-FONT SIZE SYSTEM (px)
-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
-*/
-/* #212221 #1181B2 #DDEDF4 #44449B */
-
-/* #EE7879 #2A3166 #F4ABAA #CAE7DF */
-
-/* #000000 #FA255E #C39EA0 #F8E5E5 */
-
-/* #E1F2F7 #EF0D50 #EB3A70 #E5BACE */
-
-/* #000000 #181818 #2CCCC3 #FACD3D #5626C4 #E60576 */
 
 :root {
   --global-font-family: "Lato", sans-serif;
